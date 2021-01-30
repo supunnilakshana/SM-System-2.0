@@ -1,0 +1,1 @@
+This a stock maintenance system.This is completly programmed in java and php,html ,css ,js.The php folder which php files are in is ad 'javaAP'. Put it to your php sever directory.I mean htdoc. 

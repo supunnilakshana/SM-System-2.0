@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/lib/junit.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/jcommon-1.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/jfreechart-1.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/rs2xml.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/AbsoluteLayout.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/gnujaxp.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/servlet.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/testng-6.8.1-dist.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/mysql-connector-java-5.1.23-bin.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
